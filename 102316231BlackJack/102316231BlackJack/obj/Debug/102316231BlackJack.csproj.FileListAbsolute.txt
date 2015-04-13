@@ -11,3 +11,6 @@ C:\Users\tcumi_H505\Desktop\102316231BlackJack\102316231BlackJack\obj\Debug\_102
 C:\Users\仁雲\Desktop\C#\C#program\102316231BlackJack\102316231BlackJack\bin\Debug\102316231BlackJack.exe.config
 C:\Users\仁雲\Desktop\C#\C#program\102316231BlackJack\102316231BlackJack\obj\Debug\102316231BlackJack.exe
 C:\Users\仁雲\Desktop\C#\C#program\102316231BlackJack\102316231BlackJack\obj\Debug\102316231BlackJack.pdb
+C:\Users\仁雲\Documents\GitHub\CSharp\102316231BlackJack\102316231BlackJack\bin\Debug\102316231BlackJack.exe.config
+C:\Users\仁雲\Documents\GitHub\CSharp\102316231BlackJack\102316231BlackJack\obj\Debug\102316231BlackJack.exe
+C:\Users\仁雲\Documents\GitHub\CSharp\102316231BlackJack\102316231BlackJack\obj\Debug\102316231BlackJack.pdb
